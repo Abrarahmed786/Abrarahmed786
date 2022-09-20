@@ -9,15 +9,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abrarahmed786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<hr/>
-
-
-
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<hr/>
-
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soabrar) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arron_ston) 
