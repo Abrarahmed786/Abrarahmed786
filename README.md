@@ -1,9 +1,33 @@
 # 💫 This is Abrar&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-🔭 I’m currently working on Flutter Framework.<br>👯 I'm also experienced in end to end Android app development using Kotlin and Java. <br>🤝 I'm also good with Unity 3D and C#.<br>🌱 I’m currently learning Machine Learning & Data Science<br>💬 Ask me about Flutter & Machine Learning<br>⚡ Fun fact I like Games and Food
+
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+<p>
+  <em>
+    I am a Computer Science Engineer and currently working at <a href="https://www.sportsbuzz.in/"> <b>SportsBuzz</b></a>.  
+    as a <b>Software Engineer</b> 
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b> </b>&nbsp;who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
+
+
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m currently working on **Flutter Framework.**
+<br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I'm also experienced in end to end **Android** app development using **Kotlin and Java.** <br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> I'm also good with **Unity 3D** and **C#.**
+<br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> I’m currently learning **Machine Learning** & **Data Science**<br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> Ask me about **Flutter** & **Machine Learning**<br>
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun Fact** I like **Games** and **Food**
 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" height="32px">
 ## Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -41,12 +65,15 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" height="32px">
 ![](https://github-readme-stats.vercel.app/api?username=abrarahmed786&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-## 🌐 Get Connect:
+
+
+# 🌐 Get Connect<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soabrar) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arron_ston) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arron-ston) 
