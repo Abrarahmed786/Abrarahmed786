@@ -23,9 +23,7 @@
 <hr/>
 
 ### ✍️ Random Dev Quote
-<hr/>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 ---
-<hr/>
 [![](https://visitcount.itsvg.in/api?id=abrarahmed786&icon=5&color=0)](https://visitcount.itsvg.in)
-<hr/>
+
