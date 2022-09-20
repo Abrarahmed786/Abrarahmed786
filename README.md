@@ -12,12 +12,13 @@
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-## 🌐 Socials:
+## 🌐 Get Connect:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/soabrar) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arron_ston) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arron-ston) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/damonston) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arron_ston) 
+---
 [![](https://visitcount.itsvg.in/api?id=abrarahmed786&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
