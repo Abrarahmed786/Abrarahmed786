@@ -1,4 +1,4 @@
-# 💫 This is Abrar ![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?style=max-width:100%&display=inline-block)
+# 💫 This is Abrar ![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?style=max-width:100%)
 🔭 I’m currently working on Flutter Framework.<br>👯 I'm also experienced in end to end Android app development using Kotlin and Java. <br>🤝 I'm also good with Unity 3D and C#.<br>🌱 I’m currently learning Machine Learning & Data Science<br>💬 Ask me about Flutter & Machine Learning<br>⚡ Fun fact I like Games and Food
 
 
