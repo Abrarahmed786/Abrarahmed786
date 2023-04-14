@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    I am a Computer Science Engineer and currently working at <a href="https://www.sportsbuzz.in/"> <b>SportsBuzz</b></a>.  
+    I am a Computer Science Engineer and currently working at <a href="https://www.sportsbuzz.com/"> <b>SportsBuzz</b></a>.  
     as a <b>Software Engineer</b> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> <b> </b>&nbsp;who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
