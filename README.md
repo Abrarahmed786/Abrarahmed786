@@ -1,84 +1,87 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&width=500&lines=Hi%2C+I'm+Abrar+Ahmad;Flutter+Developer+%7C+Backend+Engineer;Building+Scalable+Apps+%F0%9F%9A%80" />
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c1c,100:2c5364&height=200&section=header&text=Abrar%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<img align="right" alt="coding" width="260" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif"/>
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Flutter+Engineer;Backend+Engineer;6%2B+Years+Experience;Scalable+Systems;Clean+Architecture"/>
+</p>
 
-## 🚀 About Me
-- 📱 5+ years experience in **Flutter & Mobile Development**
-- ⚙️ Backend Engineer with **Node.js, NestJS, Microservices**
-- ☁️ Skilled in **AWS, GCP, Firebase, CI/CD**
-- 📈 Built apps with **1M+ users**
-- 🧠 Focused on **Scalable Architecture & Performance**
+<br>
 
----
+<!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
-## 🧠 Tech Stack
+## About
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+Software Engineer with **6+ years of experience** building scalable mobile and backend systems.
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+- Flutter, Dart (Production apps)
+- Node.js, NestJS, Microservices
+- AWS, GCP, Firebase, CI/CD
+- Performance Optimization, System Design
 
-### 🗄️ Database & Cache
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Fastlane](https://img.shields.io/badge/fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarahmed786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrarahmed786&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,nestjs,mongodb,redis,postgres,aws,gcp,firebase,git,github,postman&perline=7" />
+</p>
+
+<br>
+
+## Impact
+
+- 🚀 Cricket Bazaar → **1M+ users**
+- 📰 OneTurf News → **500K+ users**
+- ⚡ Microservices with Redis, gRPC, caching
+- 📲 Apps live on Play Store & App Store
+
+<br>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarahmed786&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=abrarahmed786&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed786&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarahmed786&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="140"/>
 </p>
 
----
+<br>
 
-## 🏆 Achievements & Highlights
-- 🚀 Scaled **Cricket Bazaar → 1M+ users**
-- 📰 Built **OneTurf News → 500K+ users**
-- ⚡ Designed **microservices with Redis, gRPC, caching**
-- 📲 Published apps on **Play Store & App Store**
-
----
-
-## 🔥 Contribution Graph
-
-[![Abrar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abrarahmed786&theme=tokyo-night&hide_border=true)](https://github.com/abrarahmed786)
-
----
-
-## 🌐 Connect With Me
+## Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/arron-ston"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/Arron_ston"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter"></a>
-  <a href="https://instagram.com/arron_ston"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrarahmed786&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<br>
 
-## ⚡ Fun Fact
-I like building scalable products, gaming, and exploring new technologies.
-
----
+## Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abrarahmed786&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://linkedin.com/in/arron-ston">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Arron_ston">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/arron_ston">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abrarahmed786&color=555"/>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:1c1c1c,100:0f2027&height=120&section=footer"/>
 </p>
